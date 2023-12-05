@@ -1,6 +1,7 @@
 import java.util.*;
 class toss_and_roll_probabilities
 {
+    
     public static void main(String args[])
     {
         int choice,totprob; //to make choice between coin or dice,total number of probabilities in either cases
